@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>DebtToolBar.qml</file>
+        <file>DebtorPage.qml</file>
+        <file>DebtorDialog.qml</file>
+        <file>DebtorForm.ui.qml</file>
+        <file>images/back.png</file>
+        <file>images/checkmark.png</file>
+        <file>images/next.png</file>
+        <file>ProductsPage.qml</file>
+        <file>images/debt1.png</file>
+        <file>images/debt2.png</file>
+        <file>images/money.png</file>
+        <file>images/money1.png</file>
+        <file>images/money2.png</file>
+        <file>ProductsDialog.qml</file>
+        <file>ProductsForm.ui.qml</file>
+    </qresource>
+</RCC>
